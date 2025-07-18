@@ -43,6 +43,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.BmiCalculatorKt.executor": "Run",
+    "Kotlin.StudenSortingKt.executor": "Run",
     "Kotlin.TablesKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
